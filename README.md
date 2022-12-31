@@ -1,2 +1,2 @@
 # MERN-TRAINING
-this is the trainin provided by ------
+this is the training provided by ------
